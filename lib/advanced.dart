@@ -55,7 +55,7 @@ class _AdvancedScreenState extends State<AdvancedScreen>
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 Text(
-                  'Encuentra a Mario',
+                  'Raspa Mario',
                   style: TextStyle(
                     fontFamily: 'SuperMario256',
                     color: Colors.redAccent,
@@ -64,7 +64,7 @@ class _AdvancedScreenState extends State<AdvancedScreen>
                   ),
                 ),
                 Text(
-                  'Encuentra tu mario!',
+                  'Encuentra tu Super Mario Bros!',
                   style: TextStyle(
                     fontFamily: 'SuperMario256',
                     color: Colors.redAccent,
