@@ -8,3 +8,4 @@ Aplicación raspa un mario bros. ocupa el package scratcher https://pub.dev/pack
 
 ocupa letra SuperMario256.ttf
 
+![Super Mario ](https://github.com/devjaime/EncuentraMario/blob/master/assets/encuentramario.gif)
